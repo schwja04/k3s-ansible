@@ -1,0 +1,8 @@
+# dev directory
+.vscode/**
+.env/**
+
+# implemented files
+hosts.ini
+all.yml
+all.yaml
